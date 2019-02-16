@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\bin\Debug\StructDemonstrator.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\bin\Debug\StructDemonstrator.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\bin\Debug\StructDemonstrator.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\obj\Debug\StructDemonstrator.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\obj\Debug\StructDemonstrator.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\obj\Debug\StructDemonstrator.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\struct-demonstrator-console-app\StructDemonstrator\StructDemonstrator\obj\Debug\StructDemonstrator.pdb
